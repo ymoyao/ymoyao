@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Ymoyao's github stats](https://github-readme-stats.vercel.app/api?username=ymoyao&count_private=false&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ymoyao/ymoyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
